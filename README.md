@@ -65,7 +65,7 @@ Matric in Computer Science, True Care Academy Karachi
 ![Abdul-Haseeb-Rajput GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=algolia)
 
 ## Mostly Used Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&layout=compact&theme=github_dark)](https://github.com/Abdul-Haseeb-Rajput/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&layout=compact&theme=algolia)](https://github.com/Abdul-Haseeb-Rajput/github-readme-stats)
 
 <hr>
 
