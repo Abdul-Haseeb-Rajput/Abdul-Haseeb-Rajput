@@ -37,23 +37,30 @@ Matric in Computer Science, True Care Academy Karachi
 ## Skills:
 <p align="left"> 
         <a>
-	    Dart,
-            HTML5,
-            CSS3,
-            Bootstrap,
-	    Java,
-	    C,
-	    C++,
-            JavaScript,
-            Python,
-            Programming,
-            Microsoft Office,
-            Communication Skills,
-            Problem-Solving,
-            Hard-working,
-            Leadership,
-            Creativity,
-            UI/UX Design
+		Flutter Framework,
+		Dart  Programming,
+		Version Control (Git),
+		Github,
+		Firebase,
+		RESTful APIs,
+		State Managements (Stacked , Getx),
+		MVC, MVVM Architecture,
+            	HTML5,
+            	CSS3,
+            	Bootstrap,
+	    	Java,
+	    	C,
+	    	C++,
+            	JavaScript,
+            	Python,
+            	Programming,
+            	Microsoft Office,
+            	Communication Skills,
+            	Problem-Solving,
+            	Hard-working,
+            	Leadership,
+            	Creativity,
+            	UI/UX Design
         </a>
 </p>
 
