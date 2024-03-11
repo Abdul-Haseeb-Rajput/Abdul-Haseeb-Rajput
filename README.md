@@ -1,17 +1,10 @@
 ## ![Header](./haseeb-header-image.png)
-I'm Abdul Haseeb. I'm doing Bs Software Engineering from Sindh Madressa-tul-Islam University, City Campus, Karachi. It's my third year at University (6th Semester).<br>
-
-My academic background in software engineering has provided me with a strong foundation in relevant skills and knowledge, even if I haven't had the opportunity to apply them in a professional setting. <br>
-
-As part of my ongoing commitment to advancing my skills in Mobile App development, I have recently enrolled in "Flutter App Development course" at "Saylani Mass IT Training". I am looking forward to learning about Flutter and applying it to real-world projects.
 
 <hr>
 
 ## About Me:
-
-I am a talented, ambitious, and hardworking individual. As a student, I'm doing Bs in Software Engineering from Sindh Madressa-tul-Islam University, City Campus, Karachi. It's my third year at University (6th Semester). <br>
-
-Passion and Determination: Although lacking previous work experience, I am driven and eager to acquire new skills and advance in a professional environment. <br>
+I'm Abdul Haseeb.
+A talented, ambitious, and hardworking individual. As a student, I'm doing Bs in Software Engineering from Sindh Madressa-tul-Islam University, City Campus, Karachi. It's my final year at University (7th Semester). <br>
 
 Willingness to Learn: As a dedicated and humble student, I recognize that I am just beginning my journey toward expertise in my field. I understand the importance of seeking guidance from those who have already achieved a high level of skill and knowledge, and I am committed to actively seeking out their feedback and advice. By maintaining an open and receptive attitude toward learning, I am confident that I will continue to grow and develop as a professional and make meaningful contributions to my team and organization.
 
@@ -19,7 +12,7 @@ Willingness to Learn: As a dedicated and humble student, I recognize that I am j
 
 ## Education:
 
-BS Software Engineering, Sindh Madrasa-tul-Islam University City Campus Karachi, "6th Semester"
+BS Software Engineering, Sindh Madrasa-tul-Islam University City Campus Karachi, "7th Semester"
 (2021-2025). <br>
 
 Intermediate in Pre-Engineering, Nabi Bagh Z.M Govt Science College Karachi
@@ -43,11 +36,9 @@ Matric in Computer Science, True Care Academy Karachi
 		Github,
 		Firebase,
 		RESTful APIs,
-		State Managements (Stacked , Getx),
 		MVC, MVVM Architecture,
             	HTML5,
             	CSS3,
-            	Bootstrap,
 	    	Java,
 	    	C,
 	    	C++,
@@ -66,7 +57,7 @@ Matric in Computer Science, True Care Academy Karachi
 
 <hr>
 
-### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/abdul-haseeb-rajput-ba7366222/ <br>
+### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/abdul-haseeb-r-ba7366222/ <br>
 
 ## Check My Github Stats:
 ![Abdul-Haseeb-Rajput GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=algolia&count_private=true)
