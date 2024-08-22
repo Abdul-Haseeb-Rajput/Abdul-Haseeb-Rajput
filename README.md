@@ -60,10 +60,12 @@ Matric in Computer Science, True Care Academy Karachi
 ### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/abdul-haseeb-r-ba7366222/ <br>
 
 ## Check My Github Stats:
-![Abdul-Haseeb-Rajput GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=algolia&count_private=true)
+![Abdul-Haseeb-Rajput GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&count_private=true&show_icons=true&theme=algolia&count_private=true)
 
 ## Mostly Used Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&layout=compact&theme=algolia)](https://github.com/Abdul-Haseeb-Rajput/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&count_private=true&layout=compact&theme=algolia)](https://github.com/Abdul-Haseeb-Rajput/github-readme-stats)
+
+
 
 <hr>
 
