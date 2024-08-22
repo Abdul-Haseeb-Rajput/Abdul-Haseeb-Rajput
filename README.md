@@ -23,11 +23,8 @@ Matric in Computer Science, True Care Academy Karachi
 
 <hr>
 
-<h3 align="center">I am constantly seeking to learn more about the latest developments in the tech industry.</h3>
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" >
-
-<hr>
 ## Skills:
+
 <p align="left"> 
         <a>
 		Flutter Framework,
@@ -57,15 +54,14 @@ Matric in Computer Science, True Care Academy Karachi
 
 <hr>
 
-### Visit My Linkedin Profile: <br>https://www.linkedin.com/in/abdul-haseeb-r-ba7366222/ <br>
+## My Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-## Check My Github Stats:
-![Abdul-Haseeb-Rajput GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&count_private=true&show_icons=true&theme=algolia&count_private=true)
+## My Mostly Used Top languages:
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
-## Mostly Used Top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&count_private=true&layout=compact&theme=algolia)](https://github.com/Abdul-Haseeb-Rajput/github-readme-stats)
-
-
+## My Streak:
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true)
 
 <hr>
 
