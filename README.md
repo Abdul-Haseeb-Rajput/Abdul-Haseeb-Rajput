@@ -55,10 +55,10 @@ Matric in Computer Science, True Care Academy Karachi
 <hr>
 
 ## My Github Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-abdul-haseeb-rajputs-projects.vercel.app/api?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## My Mostly Used Top languages:
-![GitHub Stats](https://github-readme-stats-abdul-haseeb-rajputs-projects.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&count-private=true&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-abdul-haseeb-rajputs-projects.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile)
 
 ## My Streak:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true)
