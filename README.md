@@ -23,33 +23,22 @@ Matric in Computer Science, True Care Academy Karachi
 
 <hr>
 
-## Skills:
+## Skills & Tools
 
-<p align="left"> 
-        <a>
-		Flutter Framework,
-		Dart  Programming,
-		Version Control (Git),
-		Github,
-		Firebase,
-		RESTful APIs,
-		MVC, MVVM Architecture,
-            	HTML5,
-            	CSS3,
-	    	Java,
-	    	C,
-	    	C++,
-            	JavaScript,
-            	Python,
-            	Programming,
-            	Microsoft Office,
-            	Communication Skills,
-            	Problem-Solving,
-            	Hard-working,
-            	Leadership,
-            	Creativity,
-            	UI/UX Design
-        </a>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white"/>
 </p>
 
 <hr>
@@ -65,8 +54,13 @@ Matric in Computer Science, True Care Academy Karachi
 
 <hr>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Haseeb-Rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul-Haseeb-Rajput" />
+</p>
+<hr>
+
 ## Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/abdul-haseeb-r-ba7366222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdul-haseeb-r-ba7366222/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
 </p>
