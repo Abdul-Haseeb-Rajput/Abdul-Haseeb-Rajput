@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Abdul+Haseeb!;Software+Engineer;Flutter+Enthusiast;Always+Learning+New+Tech&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&height=45&lines=Hi,+I'm+Abdul+Haseeb!;Software+Engineer;Flutter+Enthusiast;Always+Learning+New+Tech" />
 </p>
 
 ---
