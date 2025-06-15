@@ -26,7 +26,7 @@
   (2021 - 2025) `Graduated`
 
 - 🧪 **Intermediate in Pre-Engineering**  
-  *Z.M Govt Science College*, Karachi  
+  *Nabi Bagh Z.M Govt Science College*, Karachi  
   (2018 - 2020)
 
 - 🖥 **Matric in Computer Science**  
