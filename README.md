@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-abdul-haseeb-rajputs-projects.vercel.app/api?username=Abdul-Haseeb-Rajput&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ### 💡 Top Languages
@@ -72,7 +72,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight-tan.vercel.app?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&short_numbers=true&fire=EB0101" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
