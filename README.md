@@ -62,17 +62,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-6u6w.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
 ### 💡 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-abdul-haseeb-rajputs-projects.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,C++,Swift,Kotlin,Ruby,Objective-c" />
+  <img src="https://github-readme-stats-6u6w.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,C++,Swift,Kotlin,Ruby,Objective-c" />
 </p>
 
 ### 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-6u6w.vercel.app?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
