@@ -72,7 +72,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
