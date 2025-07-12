@@ -72,7 +72,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats-u6is.vercel.app?user=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&&include_all_commits=true&count_private=true&border_radius=4&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://haseeb-github-streak-widget.vercel.app" alt="GitHub Streak" />
 </p>
 
 ---
