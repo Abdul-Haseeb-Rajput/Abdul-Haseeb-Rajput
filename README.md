@@ -35,9 +35,9 @@
 
 ---
 
-## 🛠 Skills & Tools
+### 🛠 Skills & Tools
 
-### Languages & Frameworks
+## Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Tools & Platforms
+## Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -65,33 +65,36 @@
   <img src="https://github-readme-stats-blush-kappa-52.vercel.app/api?username=Abdul-Haseeb-Rajput&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
 
-### 💡 Top Languages
+## 💡 Top Languages
 <p align="center">
   <img src="https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=CMake,Makefile,C++,Swift,Kotlin,Ruby,Objective-c" />
 </p>
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://haseeb-github-streak-widget.vercel.app" alt="GitHub Streak" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
 
-<p align="center">
+<!--## 🏆 GitHub Trophies -->
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Haseeb-Rajput&theme=darkhub&no-frame=true&margin-w=5&title=MultiLanguage,Commit,PullRequest,Repositories,Stars"/>
-</p>
+</p> -->
 
----
+
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Haseeb-Rajput&theme=react-dark&area=true&hide_border=true"/>
+</p> -->
+<p align="center">
+  <img src="https://haseeb-github-streak-widget.vercel.app/graph?username=Abdul-Haseeb-Rajput&days=30&title=Abdul%20Haseeb%27s%20GitHub%20Activity%20Graph"/>
 </p>
 
----
+
 
 ## 🌐 Connect with Me
 
