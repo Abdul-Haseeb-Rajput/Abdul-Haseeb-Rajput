@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering graduate from SMI University, Karachi  
+- 🎓 Software Engineer graduated from SMI University, Karachi  
 - 👨‍💻 Full-time Flutter Developer  
 - 📱 Passionate about building scalable, responsive apps using **Flutter**  
 - 🚀 Currently working on production-level apps  
