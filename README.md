@@ -67,7 +67,7 @@
 
 ## 💡 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=20&hide=PLpgSQL,Ruby,CMake,Makefile,PHP,CSS,HTML,Shell" />
+  <img src="https://github-readme-stats-blush-kappa-52.vercel.app/api/top-langs/?username=Abdul-Haseeb-Rajput&theme=dark&hide_border=true&layout=compact&count-private=true&langs_count=11&hide=PLpgSQL,Ruby,CMake,Makefile,PHP,CSS,HTML,Shell,PowerShell,Procfile,Dockerfile,Objective-c,Swift" />
 </p>
 
 ## 🔥 GitHub Streak
